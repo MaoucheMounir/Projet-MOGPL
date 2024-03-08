@@ -1,0 +1,13 @@
+# Présentation
+Projet de l'UE MOGPL M1-S1 Sorbonne Université (parcours ANDROIDE) <br>
+
+# Binôme
+- MAOUCHE Mounir M1-IMA
+- SAID Racha M1-DAC
+
+#Problème étudié
+Plus court chemin dans un graphe orienté
+
+# Principe
+- Implémentation d'une méthode pour la diminution du temps de convergence de l'algorithme de Bellman-Ford basée sur le papier de Lattanzi et al. "Speeding Up Bellman Ford via Minimum Violation Permutations"
+- Etude de la complexité de l'algorithme et comparaison des performances en terme de temps de convergence face à l'algorithme basique
