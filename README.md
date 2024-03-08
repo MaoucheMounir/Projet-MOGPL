@@ -1,11 +1,11 @@
 # Présentation
-Projet de l'UE MOGPL M1-S1 Sorbonne Université (parcours ANDROIDE) <br>
+Projet de l'UE MOGPL M1-S1 Sorbonne Université (parcours ANDROIDE)
 
 # Binôme
 - MAOUCHE Mounir M1-IMA
-- SAID Racha M1-DAC
+- [SAID Racha](https://github.com/said-racha) M1-DAC
 
-#Problème étudié
+# Problème étudié
 Plus court chemin dans un graphe orienté
 
 # Principe
